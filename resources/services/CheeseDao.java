@@ -1,4 +1,4 @@
-package org.apache.wicket.training.cheesr.services;
+package nl.topicus.cheesr.services;
 
 import java.util.List;
 
