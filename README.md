@@ -17,6 +17,8 @@ te volgen. Gebruik de volgende groupid en artifactid:
 Kopieer het gegenereerde commandline commando en plak deze in een
 shell (of dos prompt).
 
+Download de voorbeeldcode van dit project (zie de tags) en pak het ergens uit.
+
 Kopieer dan de domein en service directories naar je project folder
 onder `src/main/java/nl/topicus/cursus/cheesr`
 
