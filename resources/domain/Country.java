@@ -1,4 +1,4 @@
-package org.apache.wicket.training.cheesr.domain;
+package nl.topicus.cheesr.domain;
 
 import java.io.Serializable;
 
