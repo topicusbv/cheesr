@@ -1,8 +1,8 @@
-package org.apache.wicket.training.cheesr.services;
+package nl.topicus.cheesr.services;
 
 import java.util.List;
 
-import org.apache.wicket.training.cheesr.domain.Country;
+import nl.topicus.cheesr.domain.Country;
 
 public interface CountryDao {
 
