@@ -1,10 +1,10 @@
-package org.apache.wicket.training.cheesr.services;
+package nl.topicus.cheesr.services;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import org.apache.wicket.training.cheesr.domain.Country;
+import nl.topicus.cheesr.domain.Country;
 
 public class CountryDaoImpl implements CountryDao {
 	private static List<Country> countries = new ArrayList<Country>();
