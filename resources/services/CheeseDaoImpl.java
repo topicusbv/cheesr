@@ -1,4 +1,4 @@
-package org.apache.wicket.training.cheesr.services;
+package nl.topicus.cheesr.services;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Properties;
 
-import org.apache.wicket.training.cheesr.domain.Cheese;
+import nl.topicus.cheesr.domain.Cheese;
 
 public class CheeseDaoImpl implements CheeseDao {
 	private static List<Cheese> cheeses = new ArrayList<Cheese>();
