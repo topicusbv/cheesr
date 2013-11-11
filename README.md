@@ -11,7 +11,7 @@ Genereer een Wicket quickstart in je workspace door de instructies op
 [deze Wicket pagina](http://wicket.apache.org/start/quickstart.html)
 te volgen. Gebruik de volgende groupid en artifactid:
 
-    groupId: nl.topicus.cursus.cheesr
+    groupId: nl.topicus.cheesr
 	artifactId: cheesr
 
 Kopieer het gegenereerde commandline commando en plak deze in een
